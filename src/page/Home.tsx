@@ -7,16 +7,10 @@ const Home: React.FC = () => {
         <>
             <div className="text-center">
                 <h1> Welcome! </h1>
-                {/*
                 <section style={{marginTop: "20px"}}>
-                    <h2>Chang Yi-Chang</h2>
-                </section>
-                    */
-                }
-                <section style={{marginTop: "20px"}}>
-                    <p> 這裡可以放一些描述你的背景、成長經歷或其他有趣的故事。</p>
-                    <p> 像是如果你想要學些才藝，像是圍棋、PSP、或是偷吃阿。</p>
-                    <p> 你可能來不及了，因為你年紀太大了。</p>
+                    <p> 我是五樓，目前就讀於北科大資工系，大四</p>
+                    <p> 這是我的個人網站，目前只有放置個人經歷與製作過的 Projects</p>
+                    <p> 你也可以點擊下方連結尋找我的個人社群</p>
                 </section>
 
 
